@@ -1,3 +1,5 @@
+![Banner](Clinical_trials.png)
+
 # Clinical Trials Analysis using the AACT Database
 
 ## Project Overview
